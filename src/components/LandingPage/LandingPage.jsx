@@ -5,8 +5,7 @@ import Welcome from "./Welcome";
 import Wonderland from "./Wonderland";
 import Events from "./Events";
 import Testimonials from "./Testimonials";
-import Navbar from "./Navbar";
-
+import Navbar from "./Navbar/Navbar";
 const LandingPage = () => {
   return (
     <div>

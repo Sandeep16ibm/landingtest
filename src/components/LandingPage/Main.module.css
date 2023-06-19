@@ -1,0 +1,260 @@
+.heirloomTomato {
+  bottom: 98px;
+  line-height: 130%;
+  font-weight: 600;
+}
+.grownInSan,
+.heirloomTomato,
+.lb {
+  position: absolute;
+  left: 24px;
+}
+.lb {
+  bottom: 68px;
+  line-height: 130%;
+  font-weight: 600;
+  color: var(--color-darkolivegreen);
+}
+.grownInSan {
+  bottom: 28px;
+  font-size: var(--font-size-base);
+  line-height: 150%;
+  color: var(--color-dimgray);
+}
+.edONeilAvvdzlhdowaUnsplashIcon {
+  position: absolute;
+  height: calc(100% - 148px);
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 148px;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.tomato {
+  position: absolute;
+  width: calc(100% - 1045px);
+  top: 301px;
+  right: 949px;
+  left: 96px;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-whitesmoke);
+  border: 2px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  height: 444px;
+  overflow: hidden;
+  font-size: var(--font-size-xl);
+}
+.default {
+  position: absolute;
+  top: calc(50% - 10.5px);
+  left: calc(50% - 28px);
+  line-height: 130%;
+  font-weight: 600;
+}
+.defaultChip {
+  right: 275px;
+  bottom: 33px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-darkolivegreen);
+  width: 88px;
+  height: 40px;
+  overflow: hidden;
+  color: var(--color-white);
+}
+.aZ,
+.aZChip,
+.defaultChip {
+  position: absolute;
+}
+.aZ {
+  top: calc(50% - 10.5px);
+  left: calc(50% - 15px);
+  line-height: 130%;
+  font-weight: 600;
+}
+.aZChip {
+  right: 205px;
+  bottom: 33px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 62px;
+  height: 40px;
+  overflow: hidden;
+}
+.listView {
+  position: absolute;
+  top: calc(50% - 10.5px);
+  left: calc(50% - 34.5px);
+  line-height: 130%;
+  font-weight: 600;
+}
+.listChip {
+  position: absolute;
+  right: 96px;
+  bottom: 33px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 101px;
+  height: 40px;
+  overflow: hidden;
+}
+.fresh {
+  font-weight: 500;
+}
+.august212023 {
+  font-weight: 300;
+}
+.freshAugustContainer,
+.produce {
+  position: absolute;
+  bottom: 33px;
+  left: 347px;
+  font-size: var(--font-size-xl);
+  line-height: 130%;
+  text-align: left;
+}
+.produce {
+  bottom: 16px;
+  left: 96px;
+  font-size: var(--font-size-45xl);
+  letter-spacing: -0.02em;
+  line-height: 120%;
+  font-family: var(--font-newsreader);
+}
+.divider {
+  position: absolute;
+  width: calc(100% - 190px);
+  right: 95px;
+  bottom: -1px;
+  left: 95px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-top: 2px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  height: 2px;
+}
+.pageHeading {
+  position: absolute;
+  width: 100%;
+  top: 112px;
+  right: 0;
+  left: 0;
+  background-color: var(--color-white);
+  height: 149px;
+  overflow: hidden;
+  text-align: center;
+}
+.worldPeas {
+  position: absolute;
+  top: 41px;
+  left: 96px;
+  font-size: var(--font-size-13xl);
+  letter-spacing: -0.01em;
+  line-height: 100%;
+  font-weight: 500;
+  font-family: var(--font-newsreader);
+  color: var(--color-darkolivegreen);
+  text-align: left;
+}
+.newstand,
+.shop {
+  position: absolute;
+  top: 45.5px;
+  right: 657px;
+  line-height: 130%;
+}
+.newstand {
+  right: 532px;
+}
+.whoWeAre {
+  top: 45.5px;
+  right: 394px;
+}
+.basket3,
+.myProfile,
+.whoWeAre {
+  position: absolute;
+  line-height: 130%;
+}
+.myProfile {
+  top: 45.5px;
+  right: 270px;
+}
+.basket3 {
+  top: calc(50% - 10.5px);
+  left: calc(50% - 40px);
+  font-weight: 600;
+}
+.cartButton,
+.navigation {
+  position: absolute;
+  overflow: hidden;
+}
+.cartButton {
+  top: 32px;
+  right: 96px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-darkolivegreen);
+  width: 126px;
+  height: 48px;
+  color: var(--color-white);
+}
+.navigation {
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 112px;
+  text-align: center;
+}
+.lb1,
+.organicGinger {
+  position: absolute;
+  top: 320px;
+  left: 24px;
+}
+.lb1 {
+  top: 350px;
+}
+.grownInHuntington,
+.imageIcon {
+  position: absolute;
+  top: 392px;
+  left: 24px;
+}
+.imageIcon {
+  top: 0;
+  left: 0;
+  width: 394.67px;
+  height: 296px;
+  object-fit: cover;
+}
+.ginger,
+.productPage {
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.ginger {
+  position: absolute;
+  top: 301px;
+  left: 523px;
+  width: 395px;
+  height: 444px;
+  font-size: var(--font-size-xs);
+}
+.productPage {
+  position: relative;
+  width: 100%;
+  height: 1024px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
